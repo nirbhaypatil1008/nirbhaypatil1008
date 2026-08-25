@@ -27,7 +27,7 @@ I'm passionate about building scalable applications, solving real-world problems
 - Node.js
 
 ### Databases
-.........
+- My SQL
 ## 📈 What I'm Interested In
 
 - Full-Stack Development
